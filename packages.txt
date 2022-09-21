@@ -1,0 +1,40 @@
+# Tool suite
+build-essential
+git
+pigz
+docker
+wget
+aria2
+gcc
+screen
+tmux
+
+# Build utils
+ninja-build
+meson
+
+# Autotool suite
+automake
+pkg-config
+libtool
+autoconf
+
+# Networking
+libpcap-dev
+libcap-dev
+libcap-ng-dev
+iproute2
+
+# Python
+python3 python3-pip
+
+# Misc. dependencies
+xsltproc
+libpam-dev
+texinfo
+bison
+gawk
+sqlite3
+libsqlite3-dev
+
+
