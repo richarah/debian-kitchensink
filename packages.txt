@@ -18,7 +18,7 @@ texinfo
 ninja-build
 meson
 bison
-yacc
+flex
 
 # Autotool suite
 automake
