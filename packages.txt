@@ -41,6 +41,7 @@ python3-pip
 # Misc. C libraries
 libtalloc-dev
 libarchive-dev
+uthash-dev
 
 # Curses/NCurses
 libncurses5-dev
