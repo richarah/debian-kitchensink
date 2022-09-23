@@ -8,10 +8,17 @@ aria2
 gcc
 screen
 tmux
+rsync
+
+# Programming languages, etc.
+golang
+texinfo
 
 # Build utils
 ninja-build
 meson
+bison
+yacc
 
 # Autotool suite
 automake
@@ -24,15 +31,24 @@ libpcap-dev
 libcap-dev
 libcap-ng-dev
 iproute2
+libseccomp-dev
+libseccomp2
 
 # Python
-python3 python3-pip
+python3
+python3-pip
+
+# Misc. C libraries
+libtalloc-dev
+libarchive-dev
+
+# Curses/NCurses
+libncurses5-dev
+libncursesw5-dev
 
 # Misc. dependencies
 xsltproc
 libpam-dev
-texinfo
-bison
 gawk
 sqlite3
 libsqlite3-dev
